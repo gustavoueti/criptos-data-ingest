@@ -1,0 +1,1 @@
+Simple script to ingest some criptos data
